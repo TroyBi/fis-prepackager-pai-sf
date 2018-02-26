@@ -1,0 +1,46 @@
+{
+  "_from": "fis-prepackager-pai-sf",
+  "_id": "fis-prepackager-pai-sf@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-nU/zREWTs0Wj8LE1FUMyzUkICrM=",
+  "_location": "/fis-prepackager-pai-sf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "fis-prepackager-pai-sf",
+    "name": "fis-prepackager-pai-sf",
+    "escapedName": "fis-prepackager-pai-sf",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/fis-prepackager-pai-sf/-/fis-prepackager-pai-sf-0.0.7.tgz",
+  "_shasum": "9d4ff3444593b345a3f0b135154332cd49080ab3",
+  "_spec": "fis-prepackager-pai-sf",
+  "_where": "/Users/baidu/Documents/work-blp/baidu/high/fe-mpi-common.fisp",
+  "author": {
+    "name": "jinzhan"
+  },
+  "bugs": {
+    "url": "https://github.com/jinzhan/fis-prepackager-pai-sf/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "a plugin for sf of zd.",
+  "homepage": "https://github.com/jinzhan/fis-prepackager-pai-sf",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "fis-prepackager-pai-sf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinzhan/fis-prepackager-pai-sf.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.7"
+}
